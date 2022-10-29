@@ -1,8 +1,7 @@
 # A3 Use Case group 22
 
 ### 3A: Analyse use case
-1. Goal: Goal of the tool / workflow in one sentence. i.e. to support the user to calculate the total total cost of the project.
- 	To give the architects and engineer a quick and easy overview of the ventilation needs.	
+1. Goal: The goal of this use case is to give the architects and engineers a quick and easy overview of the ventilation needs in different rooms of the building.
 2. Model Use (Bim Uses): Please refer initially to the Mapping BIM uses, use cases and processes section in this document.
 	The use cases is cost estimation, phase planning, design coordination, Space manegement, Buidling System Analysis
 	The BIM uses is to quanitify and size of ventilation.
