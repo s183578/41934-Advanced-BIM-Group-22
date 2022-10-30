@@ -25,7 +25,7 @@ The floor construction element in the Ifc format is the entity IfcSlab and this 
 
 Exterior walls is collected from the Ifc file and the entity is called IfcWallStandardCase (or IfcWall). The walls are needed for the u-value and cardinal orientation (solar radiation).
 
-Exterior windows is collected from the Ifc and entity is called IfcWindow. From the windows the needed information is: total u-value, g-value, size/area and cardinal orientation. 
+Exterior windows is collected from the Ifc and entity is called IfcWindow. From the windows the needed information is: total u-value, g-value, size/area and cardinal orientation (solar radiation). 
 
 Exterior louvers and vents are only needed if shading is used on the exterior windows and here they are not always taken from the Ifc files. It can be nessecary to get the shading coefficients according to methods from DS/EN 410.
 
@@ -33,8 +33,6 @@ For interior partition what is needed here are the interior wall elements from t
 
 
 ### 3D: Value What is the potential improvement offered by this tool?
-This is the common question when developing tools and processes as an [intrapreneur]( https://hbr.org/2020/03/why-you-should-become-an-intrapreneur) in a company. You should consider the business and societal value of this tool – does it save time to the company, does it make employees happier / more productive? Could it reduce material use in society?
-
 7. Describe the business value (How does it create value for your business / employer)
 	It brings a massive value boost to any business that would use this. The focus of the project is to try develop on the early design stages. It's a very big advantance to know as much as you can in the early design fase so you can impleed the information as early as possible. It's will greatly save time in the longer run that the ventilation shafts and AHU already have a easy and rough gu-esstimate.
 8. Describe the societal value (How does it make the world better)
