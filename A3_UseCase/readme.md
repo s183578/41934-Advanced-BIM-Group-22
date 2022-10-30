@@ -8,9 +8,8 @@
 	* The use phases for the project would be in the planing stages.
 
 ### 3B: Propose a (design for a) tool / workflow
-3. Process: model the process diagram from your use case in BPMN.io please remember to save the .bpmn file and you can save a .svg file that you can insert into your report. 
-	Refer to the BPMN file
-5. description of the process of your tool / workflow.
+3. Process: The process of this use case has been modelled in a BPMN diagram. Please refer to the uploaded .svg file for this diagram.
+4. description of the process of your tool / workflow.
 	The tool / workflow works by calculating the required airexchange in each room based on the floor area. There are different indoor classes, so this 	  calculation, needs to be performed several times, pr. room.
 
 
