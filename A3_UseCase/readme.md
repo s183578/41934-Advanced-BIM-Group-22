@@ -14,7 +14,13 @@
 
 ### 3C: Information exchange
 5. Information Exchange: The information exchange is documented in the excel file: "Group22_Information_Exchange.xls". It should be noted that the some of thhe model element breakdown categories are marked in a red color, and this is meant as a  "nice to have but not nessecary". Only the IE tab has been filled out. 
-6. IFC: IfcSlab is the one we are looking into for now. We need some assumptions for the room height for now, but in the future the room height might be taken from the zone.
+6. IFC: From the information exchange sheet the following elements were identified:
+	* Floor construction
+	* Exterior walls
+	* Exterior windows
+	* Exterior louvers and vents
+
+IfcSlab is the one we are looking into for now. We need some assumptions for the room height for now, but in the future the room height might be taken from the zone.
 
 ### 3D: Value What is the potential improvement offered by this tool?
 This is the common question when developing tools and processes as an [intrapreneur]( https://hbr.org/2020/03/why-you-should-become-an-intrapreneur) in a company. You should consider the business and societal value of this tool – does it save time to the company, does it make employees happier / more productive? Could it reduce material use in society?
