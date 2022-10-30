@@ -47,6 +47,6 @@ It would save a lot of money, that could be used to plant trees. Hopefully it wo
 
 ## 3E: Delivery
 9. Your tool: <br />
-The tool would make it easy to calculate the ventilation loads for each room based on category and building space. This will help the building designer by automating the calculations and to implement them early on in the design phase.
+The tool would make it easy to calculate the ventilation loads for each room based on category and building space. This will help the building designer by automating the calculations and to help implementing them early on in the design phase.
 10. Delivery: <br />
 The tool will be developed through IFC models where all the identifed information exchange data are in. The code will gather all the information necessary on the required entities such as properties, longnames, location, orientation so on. Calculations are then made and the ventilation data is extracted into an excel sheet for easier management and overview for the user.
