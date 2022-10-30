@@ -5,7 +5,7 @@
 The goal of this use case is to give the architects and engineers a quick and easy overview of the ventilation needs in different rooms of the building.
 2. Model Use: <br />
 This section is based on the "BIM UseCase booklet" source material page 2.
-	* The use cases is phase planning, design coordination, Space management and Buidling System Analysis
+	* The use cases is phase planning, design coordination, Space management and Buidling System Analysis #TROR KUN MAN SKAL VÆLGE EN
 	* The BIM uses is to quanitify and size of ventilation.
 	* The use phases for the project would be in the planing stages.
 
