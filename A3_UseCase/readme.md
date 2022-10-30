@@ -19,10 +19,14 @@
 	* Exterior walls
 	* Exterior windows
 	* Exterior louvers and vents
+	* Interior partition (interior walls)
 
-The floor construction element in the Ifc format is the entity IfcSlab and this primary element that is being analysed in the code as from the slabs it is possible to get a majority of the information that is needed in order to calculate a ventilation rate. 
+The floor construction element in the Ifc format is the entity IfcSlab and this element is the primary focus point in the code as it is possible from the slabs to gather a majority of the information that is needed in order to calculate a ventilation rate. 
 
-We need some assumptions for the room height for now, but in the future the room height might be taken from the zone.
+sdfasd
+
+
+
 
 ### 3D: Value What is the potential improvement offered by this tool?
 This is the common question when developing tools and processes as an [intrapreneur]( https://hbr.org/2020/03/why-you-should-become-an-intrapreneur) in a company. You should consider the business and societal value of this tool – does it save time to the company, does it make employees happier / more productive? Could it reduce material use in society?
