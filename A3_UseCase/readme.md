@@ -2,7 +2,7 @@
 
 ### 3A: Analyse use case
 1. Goal: The goal of this use case is to give the architects and engineers a quick and easy overview of the ventilation needs in different rooms of the building.
-2. Model Use (Bim Uses): 
+2. Model Use (Bim Uses): This section is based on the "BIM UseCase booklet" source material page 2.
 	* The use cases is cost estimation, phase planning, design coordination, Space manegement, Buidling System Analysis
 	* The BIM uses is to quanitify and size of ventilation.
 	* The use phases for the project would be in the planing stages.
