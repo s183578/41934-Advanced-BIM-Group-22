@@ -8,6 +8,7 @@ This section is based on the "BIM UseCase booklet" source material page 2.
 	* The use cases is phase planning, design coordination, Space management and Buidling System Analysis #TROR KUN MAN SKAL VÆLGE EN
 	* The BIM uses is to quanitify and size of ventilation.
 	* The use phases for the project would be in the planing stages.
+	* For using during the planing stages to quanitify the ventilation needs [Er det her ikke fint hvis det kun er en?]
 
 ## 3B: Propose a (design for a) tool / workflow
 3. Process: <br />
@@ -18,7 +19,7 @@ The tool / workflow works by calculating the required ventilation rate in each r
 
 ## 3C: Information exchange
 5. Information Exchange: <br />
-The information exchange is documented in the excel file: "Group22_Information_Exchange.xls". It should be noted that the some of thhe model element breakdown categories are marked in a red color, and this is meant as a  "nice to have but not nessecary". Only the IE tab has been filled out. 
+The information exchange is documented in the excel file: "Group22_Information_Exchange.xls". It should be noted that the some of the model element breakdown categories are marked in a red color, and this is meant as a  "nice to have but not nessecary". Only the IE tab has been filled out. 
 6. IFC: <br />
 From the information exchange sheet the following (main) elements were identified:
 	* Floor construction
@@ -29,9 +30,9 @@ From the information exchange sheet the following (main) elements were identifie
 
 The floor construction element in the Ifc format is the entity IfcSlab and this element is the primary focus point in the code as it is possible from the slabs to gather a majority of the information that is needed in order to calculate a ventilation rate. 
 
-Exterior walls is collected from the Ifc file and the entity is called IfcWallStandardCase (or IfcWall). The walls are needed for the u-value and cardinal orientation (solar radiation).
+Exterior walls is collected from the Ifc file and the entity is called IfcWallStandardCase (or IfcWall). The walls are needed for the u-value and area).
 
-Exterior windows is collected from the Ifc and entity is called IfcWindow. From the windows the needed information is: total u-value, g-value, size/area and cardinal orientation (solar radiation). 
+Exterior windows is collected from the Ifc and entity is called IfcWindow. From the windows the needed information is: total u-value, g-value, size/area, orientation (solar radiation). 
 
 Exterior louvers and vents are only needed if shading is used on the exterior windows and here they are not always taken from the Ifc files. It can be nessecary to get the shading coefficients according to methods from DS/EN 410.
 
