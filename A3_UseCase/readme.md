@@ -42,14 +42,11 @@ For interior partition what is needed here are the interior wall elements from t
 7. Describe the business value: <br />
 It brings a massive increase in value to any business that would use this. The focus of the project is to try develop on the early design stages. It's a very big advantance to know as much as you can in the early design phases so you can implement the information as early as possible. It's will greatly save time in the longer run that the ventilation shafts and AHU already have an easy and rough estimate.
 8. Describe the societal value: <br />
-It would save a lot of money, that could be used to plant trees. Hopefully it would make for more optimal HVAC solutions that would reduce the energy useage and maintenance. 
+It would save a lot of money, that could be used to plant trees. Hopefully it would make for more optimal HVAC solutions that would reduce the energy usage and maintenance, resulting in more sustainable solutions.
 
 
 ## 3E: Delivery
 9. Your tool: <br />
-It would make it easy to calculate the ventilation loads and to implement them in the early design fase.
+It would make it easy to calculate the ventilation loads and to implement them early on in the design phase.
 10. Delivery: <br />
 The tool will be developed through IFC models where all the identifed information exchange data are in. The code will gather all the information necessary on the required entities such as properties, longnames, location, orientation so on. Calculations are then made and the ventilation data is extracted into an excel sheet for easier management and overview for the user.
-
-
-
