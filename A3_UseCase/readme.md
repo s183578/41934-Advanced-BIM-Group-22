@@ -13,8 +13,7 @@
 
 
 ### 3C: Information exchange
-5. Information Exchange: Fill out the excel template with the information for your planned tool / workflow. For this you will need access to the excel, and the Dikon document to help you specify the LOD (LOR,LOG,LOI) for each element you need for you tool / workflow.
-	@William
+5. Information Exchange: The information exchange is documented in the excel file: "Group22_Information_Exchange.xls". It should be noted that the some of thhe model element breakdown categories are marked in a red color, and this is meant as a  "nice to have but not nessecary". Only the IE tab has been filled out.
 6. IFC: Describe the IFC entities and properties for each of the elements you identified in your information exchange. Describe the data that you need to:
 	* Find in the IFC
 	* Find in an external sources i.e. BR18
