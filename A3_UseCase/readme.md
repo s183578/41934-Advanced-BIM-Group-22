@@ -38,7 +38,6 @@ For interior partition what is needed here are the interior wall elements from t
 8. Describe the societal value (How does it make the world better)
 	It would save a lot of money, that could be used to plan trees. Hopefully it would make for more optimal HVAC solutions 
 
-* N.B. If it doesn't do either of these things (ideally it should do both - don't do it!!)
 
 
 ### 3E: Delivery
