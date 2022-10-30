@@ -34,9 +34,9 @@ For interior partition what is needed here are the interior wall elements from t
 
 ### 3D: Value What is the potential improvement offered by this tool?
 7. Describe the business value:
-It brings a massive value boost to any business that would use this. The focus of the project is to try develop on the early design stages. It's a very big advantance to know as much as you can in the early design fase so you can impleed the information as early as possible. It's will greatly save time in the longer run that the ventilation shafts and AHU already have a easy and rough gu-esstimate.
+It brings a massive increase in value to any business that would use this. The focus of the project is to try develop on the early design stages. It's a very big advantance to know as much as you can in the early design phases so you can implement the information as early as possible. It's will greatly save time in the longer run that the ventilation shafts and AHU already have an easy and rough estimate.
 8. Describe the societal value:
-It would save a lot of money, that could be used to plan trees. Hopefully it would make for more optimal HVAC solutions 
+It would save a lot of money, that could be used to plant trees. Hopefully it would make for more optimal HVAC solutions 
 
 
 ### 3E: Delivery
