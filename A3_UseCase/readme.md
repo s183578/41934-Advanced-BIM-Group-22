@@ -3,9 +3,9 @@
 ### 3A: Analyse use case
 1. Goal: The goal of this use case is to give the architects and engineers a quick and easy overview of the ventilation needs in different rooms of the building.
 2. Model Use (Bim Uses): Please refer initially to the Mapping BIM uses, use cases and processes section in this document.
-	The use cases is cost estimation, phase planning, design coordination, Space manegement, Buidling System Analysis
-	The BIM uses is to quanitify and size of ventilation.
-	The use phases for the project would be in the planing stages.
+	* The use cases is cost estimation, phase planning, design coordination, Space manegement, Buidling System Analysis
+	* The BIM uses is to quanitify and size of ventilation.
+	* The use phases for the project would be in the planing stages.
 
 ### 3B: Propose a (design for a) tool / workflow
 3. Process: model the process diagram from your use case in BPMN.io please remember to save the .bpmn file and you can save a .svg file that you can insert into your report. 
