@@ -12,7 +12,7 @@ This section is based on the "BIM UseCase booklet" source material page 2.
 ## 3B: Propose a (design for a) tool / workflow
 3. Process: <br />
 The process of this use case has been modelled in a BPMN diagram. Please refer to the uploaded .svg file for this diagram.
-<img src="../A3_UseCase/Process_diagram">
+<img src="/A3_UseCase/Process_diagram">
 
 4. description of the process: <br />
 The tool / workflow works by calculating the required ventilation rate in each room based on the floor area. This works as according to DS/EN 16798 table B.6 it is possible to calculate an estimate of the ventilation need based on the floor area. There are however four different indoor classes and the ventilation rate is different according to the type of building/room, so for the code it should be implemented such that the user chooses beforehand what category and what type of building space needs to be calculated.
