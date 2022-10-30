@@ -23,9 +23,9 @@
 
 The floor construction element in the Ifc format is the entity IfcSlab and this element is the primary focus point in the code as it is possible from the slabs to gather a majority of the information that is needed in order to calculate a ventilation rate. 
 
-Exterior walls is collected from the Ifc file and the entity is called IfcWallStandardCase (or IfcWall). 
+Exterior walls is collected from the Ifc file and the entity is called IfcWallStandardCase (or IfcWall). The walls are needed for the u-value and cardinal orientation.
 
-Exterior windows is collected from the Ifc and entity is called IfcWindow. From the windows the needed information is: total u-value, g-value, size/area and orientation. 
+Exterior windows is collected from the Ifc and entity is called IfcWindow. From the windows the needed information is: total u-value, g-value, size/area and cardinal orientation. 
 
 Exterior louvers and vents are only needed if shading is used on the exterior windows and here they are not always taken from the Ifc files. It can be nessecary to get the shading coefficients according to methods from DS/EN 410.
 
