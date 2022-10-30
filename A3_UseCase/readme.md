@@ -33,16 +33,14 @@ For interior partition what is needed here are the interior wall elements from t
 
 
 ### 3D: Value What is the potential improvement offered by this tool?
-7. Describe the business value (How does it create value for your business / employer)
-	It brings a massive value boost to any business that would use this. The focus of the project is to try develop on the early design stages. It's a very big advantance to know as much as you can in the early design fase so you can impleed the information as early as possible. It's will greatly save time in the longer run that the ventilation shafts and AHU already have a easy and rough gu-esstimate.
-8. Describe the societal value (How does it make the world better)
-	It would save a lot of money, that could be used to plan trees. Hopefully it would make for more optimal HVAC solutions 
-
+7. Describe the business value:
+It brings a massive value boost to any business that would use this. The focus of the project is to try develop on the early design stages. It's a very big advantance to know as much as you can in the early design fase so you can impleed the information as early as possible. It's will greatly save time in the longer run that the ventilation shafts and AHU already have a easy and rough gu-esstimate.
+8. Describe the societal value:
+It would save a lot of money, that could be used to plan trees. Hopefully it would make for more optimal HVAC solutions 
 
 
 ### 3E: Delivery
-In this assignment we will focus on the input data that you need for your final tool / workflow. 
-9. Your tool/workflow: Description of how your tool / workflow would solve the use case
+9. Your tool/workflow: 
 	It would make it easy to calculate the ventilation loads and to implement them in the early design fase.
-10. Delivery: Description of how you would make the tool / workflow - what steps would you go through?
+10. Delivery:
 	We need to figure out how to make calculations in the code, and display them with the input.
