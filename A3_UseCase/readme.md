@@ -23,9 +23,13 @@
 
 The floor construction element in the Ifc format is the entity IfcSlab and this element is the primary focus point in the code as it is possible from the slabs to gather a majority of the information that is needed in order to calculate a ventilation rate. 
 
-sdfasd
+Exterior walls is collected from the Ifc file and the entity is called IfcWallStandardCase (or IfcWall). 
 
+Exterior windows is collected from the Ifc and entity is called IfcWindow.
 
+Exterior louvers and vents are only needed if shading is used on the exterior windows and here they are not always taken from the Ifc files. It can be nessecary to get the shading coefficients according to methods from DS/EN 410.
+
+For interior partition what is needed here are the interior wall elements from the Ifc file. Similarly to the exterior walls these are also called IfcWallStandardCase. The interior walls are mainly used to enclose the spaces and to get a volume of the rooms. They are assumed adiabatic meaning no u-value, heat transfer and such.
 
 
 ### 3D: Value What is the potential improvement offered by this tool?
