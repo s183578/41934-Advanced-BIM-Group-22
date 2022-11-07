@@ -34,16 +34,21 @@ Scene 1:
 
 Scene 2:
   Set: Small meeting room, boss in standing at end of table. Coworkers are sitting with laptops open looking at boss talking.
-  Dialog:
-          Boss: "Guys, *Start walking back and foward* we have just gotten a new case we need done by the end of the day. We need to calculate the ventiliation rates                   in every office of a highrise!!!!!!!!"
+  
+  Dialog: Boss: "Guys, (Start walking back and foward) we have just gotten a new case we need done by the end of the day. We need to calculate the ventiliation rates      in every office of a highrise!!!!!!!!"
+
 Scene 3:
   Camera cuts to co-worker 2 frantically typing and looking stressed at the computer. "BUT SIR THAT WOULD TAKE DAYS TO COMPLETE, WE CAN'T MAKE IT!"
+  
 Scene 4:
   Camera cuts to boss looking sad and distressed: "Oh no, what are we gonna do!"
+  
 Scene 5:
   The door get SLAMMED up and Mesiah steps in. "Don't worry guys, I get the solution to your problem right here."
+  
 Scene 6:
   Cuts to the boss. "Really?! how does it work?"
+  
 Scene 7:
   Mesiah stands in the doorway with an open computer. "I'll show you" while nodding his head and smilling. Camera pans into the computer screen.
   
