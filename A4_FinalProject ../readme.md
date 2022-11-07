@@ -52,7 +52,6 @@ Scene 6:
 Scene 7:
   Mesiah stands in the doorway with an open computer. "I'll show you" while nodding his head and smilling. Camera pans into the computer screen.
   
-**********
 
 Screen recording of us using the program with the building and showing the results.
   "First load the building into the script, and then navigate to the result tab, and then the ventilation rates will be shown on the right side of the screen".........
