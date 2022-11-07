@@ -1,5 +1,13 @@
 ## A4 Final Projekt
+<p align="center">
 William Nielsen - Sebastian Krogh Nielsen - Samuel Daniel Leinum - Patrick Dahlgreen Petersen
+</p>
+<p align="center">
+s183578 - sxxxxxx - sxxxxxx - s183593
+</p>
+<p align="center">
+Group 22
+</p>
 
 #### Summary of the use case / why is this a challenge?
 According to BIM UseCase Booklet this tool is based on the Use Case 'Energy Analysis' with a forecast usage in the design phase. 
