@@ -1,3 +1,9 @@
-# A4 Final Project
+Summary of the use case / why is this a challenge?
 
-## A4 test headline
+Who is you tool for?
+
+Business and societal value
+
+Demo of the tool (if interaction / processing takes longer – edit the video 😊)
+
+details about the upload / submission of the videos will be given closer to the time.
