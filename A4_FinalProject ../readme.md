@@ -20,7 +20,7 @@ The tool can be used by both architects and engineers (building designers) who t
 
 
 #### Business and societal value
-It brings a massive increase in value to any business that would use this. The intention of the project is to develop a tool for the early design stages. It's a very big advantance to know as much as possible in the early phases so it can be implemented and taking into account in every relevant design proces. It will greatly save time in the longer run that the ventilation shafts and AHU already have an easy and rough estimate and can hopefully prevent too tight spaces for ducts, shafts etc.
+The intention of the project is to develop a tool for the early design stages. It's a very big advantance to know as much as possible in the early phases so it can be implemented and taking into account in every relevant design proces. It will greatly save time in the longer run that the ventilation shafts and AHU already have an easy and rough estimate and can hopefully prevent too tight spaces for ducts, shafts etc.
 
 It would save a lot of money, that could be used to plant trees. Hopefully it can lead to better HVAC solutions that would reduce the energy usage and maintenance, resulting in more sustainable solutions. And optimized space management which results in an overall better building.
 
