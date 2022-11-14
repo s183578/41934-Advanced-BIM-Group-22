@@ -3,7 +3,7 @@
 William Nielsen - Sebastian Krogh Nielsen - Samuel Daniel Leinum - Patrick Dahlgreen Petersen
 </p>
 <p align="center">
-s183578 - sxxxxxx - sxxxxxx - s183593
+s183578 - s183603 - s183580 - s183593
 </p>
 <p align="center">
 Group 22
