@@ -1,4 +1,4 @@
-## A4 Final Projekt
+## A4 Final Project
 <p align="center">
 William Nielsen - Sebastian Krogh Nielsen - Samuel Daniel Leinum - Patrick Dahlgreen Petersen
 </p>
