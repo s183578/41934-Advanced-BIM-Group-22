@@ -29,18 +29,23 @@ An array of software and packages are needed in order to run the code. Most of i
 4. xlsxwriter
 5. os
 6. numpy
+7. Microsoft excel
 
 ### Files needed
 The files needed for the project are all included inside of the repository. Just download it in its entirety and follow the steps in the guide section below.
-1. Python code: "main.py"
-2. Model file: "Duplex_A_20110907.ifc"
-3. Empty folder called "output" in which the excel sheet will be written to
+1. Python code: "main.py".
+2. Model file: "Duplex_A_20110907.ifc".
+3. Empty folder called "output" in which the excel sheet will be written to.
 
 
 ### Guide in steps
 To correctly execute the code and get the desired output, please follow along with the steps provided below:
 1. Download the repository as a ZIP file and unpack it somewhere on your computer. For simplicity the example will be on the C drive "C:\".
-2. 
+2. Make sure you have python 3.7 and the required packages installed onto your computer.
+3. Open up the command prompt (CMD) by either pressing Windows+R and type "cmd" into the popup box or in the search box on the toolbar search "cmd". To open in administator mode press Ctrl+Shift+Enter or right click "Run as administrator". A black screen should appear.
+4. Here navigate to where you unpacked your code folder. For the example it would be done by typing: "cd..\..\code". The line should now say "C:\code>.
+5. Now simply write "main.py" and after a couple of seconds, if successful the message "Excel sheet succesfully created! Check your output folder" would be displayed.
+6. Navigate to your output folder and see an excel sheet has been created called "Ventilation and solar radiation.xlsx". Inside here all the extracted information has been written and as a consulting engineer you would now have a good overview of the ventilation rate and the solar radiation comming through the window.
 
 
 ## Furture work
