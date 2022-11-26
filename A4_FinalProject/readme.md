@@ -9,7 +9,7 @@ s183578 - s183603 - s183580 - s183593
 
 ## Summary of the use case
 According to BIM UseCase Booklet this tool is based on the Use Case 'Energy Analysis' with a forecast usage in the design phase. 
-The goal of the tool is to contribute with an estimate of the ventilation demand in every zone of an building. This will help the building designer by automateing the calculations and to implement it early in the design phase. 
+The goal of the tool is to contribute with an estimate of the ventilation demand in every zone of an building. This will help the building designer by automateing the calculations and to implement it early in the design phase. A full rundown of the use case can be read here: [A3: Use Case](https://github.com/s183578/41934-Advanced-BIM-Group-22/tree/main/A3_UseCase)
 
 ## The tool and how does it work
 The tool can be used by both architects and engineers (building designers) who takes part in any design phase of a building project.
