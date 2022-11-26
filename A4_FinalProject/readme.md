@@ -45,7 +45,7 @@ To correctly execute the code and get the desired output, please follow along wi
 3. Open up the command prompt (CMD) by either pressing Windows+R and type "cmd" into the popup box or in the search box on the toolbar search "cmd". To open in administator mode press Ctrl+Shift+Enter or right click "Run as administrator". A black screen should appear.
 4. Here navigate to where you unpacked the code folder. For the example it would be done by typing: "cd..\..\code". The line should now say "C:\code>".
 5. Now simply write "main.py" and after a couple of seconds, if successful the message "Excel sheet succesfully created! Check your output folder" should appear.
-6. Navigate to your output folder and see an excel sheet has been created called "Ventilation and solar radiation.xlsx". Inside here all the extracted information has been written and as a consulting engineer you would now have a good overview of the ventilation rate and the solar radiation comming through the window.
+6. Navigate to your output folder and see an excel sheet has been created called "Ventilation and solar radiation.xlsx". Inside here all the extracted information has been written and as a consulting engineer you would now have a good overview of the ventilation rate and the solar radiation comming through the windows.
 
 
 ## Furture work
