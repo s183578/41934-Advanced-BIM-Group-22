@@ -31,14 +31,14 @@ An array of software and packages are needed in order to run the code. Most of i
 6. numpy
 
 ### Files needed
-The files needed for the project are all included inside of the repository. Just download it in its entirety and follow the steps in the next section.
+The files needed for the project are all included inside of the repository. Just download it in its entirety and follow the steps in the guide section below.
 1. Python code: "main.py"
 2. Model file: "Duplex_A_20110907.ifc"
 3. Empty folder called "output" in which the excel sheet will be written to
 
 
 
-### Steps
+### Guide
 
 ## Furture work
 The tool is still very unoptimized and a lot of futures we wanted to include in the tool was out of the time scope. 
