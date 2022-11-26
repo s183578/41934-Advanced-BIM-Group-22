@@ -19,7 +19,7 @@ The intention of the project is to develop a tool for the early design stages. I
 
 The tool can lead to fewer urgent incidents and better space allocation, where money can be spent in other focus areas. Hopefully it can lead to better HVAC solutions that will reduce the energy usage and maintenance need, resulting in more sustainable solutions. And optimized space management which results in an overall better building.
 
-## Requirements for the the tool
+## Requirements for the tool
 
 ###  Software and packages
 An array of software and packages are needed in order to run the code. Most of it has been documented inside of the code, but here is a recap.
@@ -37,8 +37,11 @@ The files needed for the project are all included inside of the repository. Just
 3. Empty folder called "output" in which the excel sheet will be written to
 
 
+### Guide in steps
+To correctly execute the code and get the desired output, please follow along with the steps provided below:
+1. Download the repository as a ZIP file and unpack it somewhere on your computer. For simplicity the example will be on the C drive "C:\".
+2. 
 
-### Guide
 
 ## Furture work
 The tool is still very unoptimized and a lot of futures we wanted to include in the tool was out of the time scope. 
