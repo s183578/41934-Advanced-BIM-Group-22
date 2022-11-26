@@ -49,7 +49,7 @@ To correctly execute the code and get the desired output, please follow along wi
 
 
 ## Furture work
-The tool is still very unoptimized and a lot of futures we wanted to include in the tool was out of the time scope. 
+The tool is still very unoptimized and a lot of features we wanted to include in the tool was out of the time scope. 
 
 
 ## 2 Minute video
