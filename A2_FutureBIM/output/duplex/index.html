@@ -1,0 +1,49 @@
+<html>
+	<head>
+		<link rel='stylesheet' href='../css/html-build.css'></link>
+		<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css' integrity='sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu' crossorigin='anonymous'>		<script src='../js/html-build.js'></script> <!-- Don't know what it does, saw it on YT -->
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js'></script>
+	</head>
+	<body onload="main()">
+	<h1 id='projectTitle'></h1>		<model-> <!-- Adds titel to the page -->
+			<project- name="Duplex Apartment">
+				<site- lat="(41, 52, 27, 840000)" long="(-87, -38, -21, -839999)" elev="-0.0">
+					<building-> <!-- The levels were off, so we fixed the numbering-->
+						<floor- class="floor_upper" name='Roof'  level='2' elev="6.0" >Roof<span class="floor_stats">6.0</span> </floor->
+						<floor- class="floor_upper" name='Level 2'  level='1' elev="3.1" >Level 2<span class="floor_stats">3.1</span> </floor->
+						<floor- class="floor_ground" name='Level 1'  level='0' elev="0.0" >Level 1<span class="floor_stats">0.0</span> </floor->
+						<ground-></ground->
+						<floor- class="floor_lower" name='T/FDN'  level='-1' elev="-1.25" >T/FDN<span class="floor_stats">-1.25</span> </floor->
+					</building->
+				</site->			
+			</project-> <!-- HTML tabel from HTMLBuild.py. Takes extracted data and displays in the table automatically. -->
+				<spaces-> <h4>Spaces</h4> <table><th>Space</th><th>Level</th><th>Area</th>
+					<tr><td>Bedroom 2</td><td>Level 2</td><td>26.2m<sup>2</sup></td></tr>
+					<tr><td>Bedroom 2</td><td>Level 2</td><td>26.2m<sup>2</sup></td></tr>
+					<tr><td>Hallway</td><td>Level 2</td><td>7.8m<sup>2</sup></td></tr>
+					<tr><td>Foyer</td><td>Level 1</td><td>17.9m<sup>2</sup></td></tr>
+					<tr><td>Foyer</td><td>Level 1</td><td>17.9m<sup>2</sup></td></tr>
+					<tr><td>Hallway</td><td>Level 2</td><td>7.8m<sup>2</sup></td></tr>
+					<tr><td>Bedroom 1</td><td>Level 2</td><td>26.1m<sup>2</sup></td></tr>
+					<tr><td>Bedroom 1</td><td>Level 2</td><td>26.1m<sup>2</sup></td></tr>
+					<tr><td>Living Room</td><td>Level 1</td><td>30.1m<sup>2</sup></td></tr>
+					<tr><td>Bathroom 2</td><td>Level 2</td><td>5.4m<sup>2</sup></td></tr>
+					<tr><td>Living Room</td><td>Level 1</td><td>30.1m<sup>2</sup></td></tr>
+					<tr><td>Bathroom 1</td><td>Level 1</td><td>4.0m<sup>2</sup></td></tr>
+					<tr><td>Kitchen</td><td>Level 1</td><td>13.9m<sup>2</sup></td></tr>
+					<tr><td>Kitchen</td><td>Level 1</td><td>13.9m<sup>2</sup></td></tr>
+					<tr><td>Bathroom 2</td><td>Level 2</td><td>5.4m<sup>2</sup></td></tr>
+					<tr><td>Bathroom 1</td><td>Level 1</td><td>4.0m<sup>2</sup></td></tr>
+					<tr><td>Utility</td><td>Level 2</td><td>1.8m<sup>2</sup></td></tr>
+					<tr><td>Stair</td><td>Level 1</td><td>4.9m<sup>2</sup></td></tr>
+					<tr><td>Room</td><td>Level 1</td><td>4.9m<sup>2</sup></td></tr>
+					<tr><td>Utility</td><td>Level 2</td><td>1.7m<sup>2</sup></td></tr>
+					<tr><td>Roof</td><td>Roof</td><td>145.7m<sup>2</sup></td></tr>
+				</table></spaces->
+		</model->
+		<view->
+			<plan-></plan->
+			<props-></props->
+		</view->
+	</body>
+</html>
