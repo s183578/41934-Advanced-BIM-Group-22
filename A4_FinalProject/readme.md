@@ -25,11 +25,10 @@ The tool can lead to fewer urgent incidents and better space allocation, where m
 An array of software and packages are needed in order to run the code. Most of it has been documented inside of the code, but here is a recap.
 1. Python 3.7
 2. ifcopenshell version
-3. ifcopenshell
-4. ifcopenshell.geom
-5. xlsxwriter
-6. os
-7. Numpy
+3. ifcopenshell.geom
+4. xlsxwriter
+5. os
+6. numpy
 
 ### Files needed
 The files needed for the project are all included inside of the repository. Just download it in its entirety and follow the steps in the next section.
