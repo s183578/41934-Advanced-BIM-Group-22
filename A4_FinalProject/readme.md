@@ -31,6 +31,9 @@ An array of software and packages are needed in order to run the code. Most of i
 6. os
 7. Numpy
 
+### Files needed
+
+### Steps
 
 ## Furture work
 The tool is still very unoptimized and a lot of futures we wanted to include in the tool was out of the time scope. 
