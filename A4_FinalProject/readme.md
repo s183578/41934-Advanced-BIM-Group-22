@@ -32,6 +32,12 @@ An array of software and packages are needed in order to run the code. Most of i
 7. Numpy
 
 ### Files needed
+The files needed for the project are all included inside of the repository. Just download it in its entirety. The files included and needed are:
+1. main.py
+2. Model file: "Duplex_A_20110907.ifc"
+3. Empty folder called "output" in which the excel sheet will be written to
+
+
 
 ### Steps
 
