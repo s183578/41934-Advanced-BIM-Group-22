@@ -53,4 +53,4 @@ The tool is still very unoptimized and a lot of features we wanted to include in
 
 
 ## 2 Minute video
-Insert video here
+https://www.youtube.com/watch?v=Rjm7t6r-z-k
