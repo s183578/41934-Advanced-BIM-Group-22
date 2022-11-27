@@ -1,5 +1,5 @@
 #ONLY TESTED WITH PYTHON 3.7
-#ONLY TESTED WITH IFCOPENSHELL 
+#ONLY TESTED WITH IFCOPENSHELL FOR PYTHON 3.7
 #Please operate in Comand Prompt
 
 #https://pypi.org/project/install-ifcopenshell-python/0.1.0/
