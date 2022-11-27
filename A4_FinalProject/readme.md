@@ -12,7 +12,9 @@ According to BIM UseCase Booklet this tool is based on the Use Case 'Energy Anal
 The goal of the tool is to contribute with an estimate of the ventilation demand in every zone of an building. This will help the building designer by automateing the calculations and to implement it early in the design phase. A full rundown of the use case can be read here: [A3: Use Case](https://github.com/s183578/41934-Advanced-BIM-Group-22/tree/main/A3_UseCase)
 
 ## Who is the tool for and how does it work
-The tool can be used by both architects and engineers (building designers) who are involved in any design phase of a building project. The tool only works with buildings modelled in the IFC format. The tool works by scanning the building and locating each and every room which is defined as a space and then the windows. First off it gathers information about the spaces, in this case: "name", "room number", "level" and "area". From the area the tool then calculates the minimum dimensioning ventilation requirement.
+The tool can be used by both architects and engineers (building designers) who are involved in any design phase of a building project. The tool works by scanning the building and locating each and every room which is defined as a space and then the windows. First off it gathers information about the spaces, in this case: "name", "room number", "level" and "area". From the area the tool then calculates the minimum dimensioning ventilation requirement and writes all of the information into an excel sheet.  
+
+It is important to note that the tool only works with buildings modelled in the IFC format.
 
 ## Business and societal value
 The intention of the project is to develop a tool for the early design stages. It is a big advantage to know as much as possible in the early phases, which is why the user can benefit of knowing about spaces and requirement of the ventilation system so it can be implemented and taken into account. It will greatly save time in the longer run to know an estimate of ventilation ducts, shafts and the AHU. Hopefully it will prevent too tight spaces for ducts, shafts etc.
