@@ -49,7 +49,7 @@ To correctly execute the code and get the desired output, please follow along wi
 
 
 ## Future work
-The tool is still very unoptimized and a lot of features we wanted to include in the tool was out of the time scope. If we had more time to develop the tool further we would like to have included an option for the user to choose which indoor environment class (IEQ) the building is in and then calculate the ventilation rate based on that. Right now it only shows for IEQ II. The next step would then be to calculate ventilation rate based on other factors such as heat loads, where we then would use the solar radiation from the windows. 
+The tool is still very unoptimized and a lot of features we wanted to include in the tool was out of the time scope. If we had more time to develop the tool we would like to have included an option for the user to choose which indoor environment class (IEQ) the building is in and then calculate the ventilation rate based on that. Right now it only shows for IEQ II. The next step would then be to calculate ventilation rate based on other dimensioning factors such as heat loads, where we then would use the solar radiation from the windows. Lastly it would be nice to have an interface attached to the tool so its more user friendly and easier to navigate.
 
 
 ## 2 Minute video
