@@ -8,8 +8,7 @@ s183578 - s183603 - s183580 - s183593
 
 
 ## Summary of the use case
-According to BIM UseCase Booklet this tool is based on the Use Case 'Energy Analysis' with a forecast usage in the design phase. 
-The goal of the tool is to contribute with an estimate of the ventilation demand in every zone of an building. This will help the building designer by automateing the calculations and to implement it early in the design phase. A full rundown of the use case can be read here: [A3: Use Case](https://github.com/s183578/41934-Advanced-BIM-Group-22/tree/main/A3_UseCase)
+The goal of the tool is to contribute with an estimate of the ventilation demand in every zone of an building. This will help the building designer by automating the calculations and to implement it early in the design phase. According to BIM UseCase Booklet this tool is based on the Use Case 'Energy Analysis' with a forecast usage in the design phase. A full rundown of the use case can be read here: [A3: Use Case](https://github.com/s183578/41934-Advanced-BIM-Group-22/tree/main/A3_UseCase)
 
 ## Who is the tool for and how does it work
 The tool can be used by both architects and engineers (building designers) who are involved in any design phase of a building project. The tool works by scanning the building and locating each and every room which is defined as a space and then the windows. First off it gathers information about the spaces, in this case: "name", "room number", "level" and "area". From the area the tool then calculates the minimum dimensioning ventilation requirement and writes all of the information into an excel sheet. Next up it gathers information about the windows in form of the "name", "level", "orientation", "height" and "width". The orientation and window area is used within the code to calculate the solar radiation comming in through each window. For every loop the information is written to the same excel just in another sheet. It is important to note that the tool only works with buildings modelled in the IFC format.
@@ -17,7 +16,7 @@ The tool can be used by both architects and engineers (building designers) who a
 ## Business and societal value
 The intention of the project is to develop a tool for the early design stages. It is a big advantage to know as much as possible in the early phases, which is why the user can benefit of knowing about spaces and requirement of the ventilation system so it can be implemented and taken into account. It will greatly save time in the longer run to know an estimate of ventilation ducts, shafts and the AHU. Hopefully it will prevent too tight spaces for ducts, shafts etc.
 
-The tool can lead to fewer urgent incidents and better space allocation, where money can be spent in other focus areas. Hopefully it can lead to better HVAC solutions that will reduce the energy usage and maintenance need, resulting in more sustainable solutions. And optimized space management which results in an overall better building.
+The tool can lead to fewer urgent incidents and better space allocation, where money can be spent on other focus areas. Hopefully it can lead to better HVAC solutions that will reduce the energy usage and maintenance need, resulting in more sustainable solutions. And optimized space management which results in an overall better building.
 
 ## Requirements for the tool
 
