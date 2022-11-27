@@ -24,7 +24,7 @@ The tool can lead to fewer urgent incidents and better space allocation, where m
 ###  Software and packages
 An array of software and packages are needed in order to run the code. Most of it has been documented inside of the code, but here is a recap.
 1. Python 3.7
-2. ifcopenshell version
+2. ifcopenshell for Python 3.7
 3. ifcopenshell.geom
 4. xlsxwriter
 5. os
