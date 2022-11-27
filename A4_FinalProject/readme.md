@@ -48,7 +48,7 @@ To correctly execute the code and get the desired output, please follow along wi
 6. Navigate to your output folder and see an excel sheet has been created called "Ventilation and solar radiation.xlsx". Inside here all the extracted information has been written and as a consulting engineer you would now have a good overview of the ventilation rate and the solar radiation comming through the windows.
 
 
-## Furture work
+## Future work
 The tool is still very unoptimized and a lot of features we wanted to include in the tool was out of the time scope. 
 
 
