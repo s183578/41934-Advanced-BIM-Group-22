@@ -53,4 +53,4 @@ The tool is still very unoptimized and a lot of features we wanted to include in
 
 
 ## 2 Minute video
-The video is too large to be uploaded onto the Github page. A youtube link of the video has been provided [here](https://www.youtube.com/watch?v=Rjm7t6r-z-k)
+The video is too large to be uploaded onto the Github page. The video has been uploaded to Youtube click [here](https://www.youtube.com/watch?v=Rjm7t6r-z-k)
