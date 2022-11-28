@@ -1,4 +1,4 @@
-# A3 Use Case group 22
+# A3 Use Case: Indoor climate group 22
 
 ## 3A: Analyse use case
 1. Goal: <br />
