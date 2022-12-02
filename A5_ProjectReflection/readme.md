@@ -25,18 +25,18 @@ The freedom and independence in forming our own use case lead to a better result
 ### Output of the tool
 - Did the tool address the use case you identified?
 
-The tool we developed throughout the course were able to address the use case in a terms of calculating a simple ventilation rate according to DS/EN 16798. However all of the features that we wanted to implement were perhaps a bit out of our coding capabilites and time scope to be able to be implemented. We used a lot of time to gather the solar radiation coming in through the windows due to complex math inside of a coding language we weren't familiar with.
+The tool we developed throughout the course were able to address the use case in a terms of being able to quantify simple ventilation demands in any zones of a IFC BIM model according to DS/EN 16798. However all of the features that we wanted to implement were perhaps a bit out of our coding capabilites and time scope to be able to be implemented. We used a lot of time to gather the solar radiation coming in through the windows due to complex math inside of a coding language we weren't familiar with. 
+
 
 - Was the use case well modelled
 
+The neat thing about our use case of ventilation rates is that a lot of parameters can keep on being added to make a more complete calculation. This would allow us to almost never stop working on the tool, but also stop whenever we feel that its suffiecient enough.  
 
 
 - Was the project clearly scoped
 
+The project was clearly scoped in a way that would allow us to continue on working on the tool as we could keep piling on parameters such as heat gains, cooling, heating and much more. However the intial scope was just to create a fast and easy overview of ventilation rates in different parts of a building. 
 
-
-
-The tool is able to quantify ventilation demands in any zones of a BIM-model. This applies with the use case which was well defined and clear in what the project aimed for. 
 
 
 ### Future
