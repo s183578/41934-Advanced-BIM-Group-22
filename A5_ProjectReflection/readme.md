@@ -11,9 +11,8 @@ text here
 
 - Was the number of tools for the course ok - should we have more or less? - if so which ones would you leave out?
 
-For inexperinced coders as ourselves the amount of tools were really helpful in order for us to start programming and learn about new concepts. However some of the topics and tools feel abit rushed which makes it hard to really understand the capabilities of the tool. 
+For inexperinced coders as ourselves the amount of tools were really helpful in order for us to start programming and learn about new concepts. However some of the topics and tools feel abit rushed which makes it hard to really understand the capabilities of the tool. It would have been more helpful if the teaching team could perhaps find or make some videos about different code and concepts so we shouldn't have to wait for a TA to explain and personally help. A lot of time and focus was spent on explaining stuff like the ISO 19650 standard although interresting it didn't really help us much. 
 
-text here
 
 
 The process of the course can definitely support the progress in future BIM-related work. Wherever the case is to develope smarter tools for BIM use or working with BIM models in general
