@@ -35,7 +35,7 @@ The neat thing about our use case of ventilation rates is that a lot of paramete
 
 - Was the project clearly scoped
 
-The project was clearly scoped in a way that would allow us to continue on working on the tool as we could keep piling on parameters such as heat gains, cooling, heating and much more. However the intial scope was just to create a fast and easy overview of ventilation rates in different parts of a building. 
+The project was clearly scoped in a way that would allow us to continue on working on the tool as we could keep piling on parameters such as heat gains, cooling, heating and much more. However the intial scope was just to create a fast and easy overview of ventilation rates in different parts of a building and that goal was achieved. 
 
 
 
