@@ -3,7 +3,7 @@
 ### Process of developing the tool
 - Did the process of the course enable you to answer or define questions that you might need later for thesis?
 
-The process of the course can definitely support the progress in future BIM-related work. Wherever the case is to develope smarter tools for BIM use or working with BIM models in general
+The process of the course has definitely support the progress in future BIM-related work. Wherever the case is to develope smarter tools for BIM use or working with BIM models in general. However based on our limited time with this course it is unlikely that it will enable us to answer or define questions that we would use for our thesis. 
 
 - Would you have preferred to have been given less choice in the use cases?
 
@@ -13,9 +13,6 @@ The freedom and independence in forming our own use case lead to a better result
 
 For inexperinced coders as ourselves the amount of tools were really helpful in order for us to start programming and learn about new concepts. However some of the topics and tools feel abit rushed which makes it hard to really understand the capabilities of the tool. It would have been more helpful if the teaching team could perhaps find or make some videos about different code and concepts so we shouldn't have to wait for a TA to explain and personally help. A lot of time and focus was spent on explaining stuff like the ISO 19650 standard although interresting it didn't really help us much. 
 
-
-
-The process of the course can definitely support the progress in future BIM-related work. Wherever the case is to develope smarter tools for BIM use or working with BIM models in general
 
 
 ### Output of the tool
@@ -32,7 +29,6 @@ The neat thing about our use case of ventilation rates is that a lot of paramete
 - Was the project clearly scoped
 
 The project was clearly scoped in a way that would allow us to continue on working on the tool as we could keep piling on parameters such as heat gains, cooling, heating and much more. However the intial scope was just to create a fast and easy overview of ventilation rates in different parts of a building and that goal was achieved. 
-
 
 
 ### Future
