@@ -7,7 +7,7 @@ The process of the course can definitely support the progress in future BIM-rela
 
 - Would you have preferred to have been given less choice in the use cases?
 
-text here
+The freedom and independence in forming our own use case lead to a better result in order to approach our own interests. It was a really good idea to have some framework though as the process sometimes seemed a little unclear. In general: The freedom is nice, but it definitely helps with some sort of guidience to get in the right direction and develope a tool that fulfills and applies with both the aim and the goal. 
 
 - Was the number of tools for the course ok - should we have more or less? - if so which ones would you leave out?
 
@@ -16,8 +16,6 @@ For inexperinced coders as ourselves the amount of tools were really helpful in 
 
 
 The process of the course can definitely support the progress in future BIM-related work. Wherever the case is to develope smarter tools for BIM use or working with BIM models in general
-The freedom and independence in forming our own use case lead to a better result in order to approach our own interests. It was a really good idea to have some framework though as the process sometimes seemed a little unclear. In general: The freedom is nice, but it definitely helps with some sort of guidience to get in the right direction and develope a tool that fulfills and applies with both the aim and the goal. 
-
 
 
 ### Output of the tool
