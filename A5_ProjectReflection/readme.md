@@ -3,7 +3,7 @@
 ### Process of developing the tool
 - Did the process of the course enable you to answer or define questions that you might need later for thesis?
 
-The process of the course has definitely support the progress in future BIM-related work. Wherever the case is to develope smarter tools for BIM use or working with BIM models in general. However based on our limited time with this course it is unlikely that it will enable us to answer or define questions that we would use for our thesis. 
+The process of the course has definitely supported the progress in future BIM-related work. Wherever the case is to develope smarter tools for BIM use or working with BIM models in general. However based on our limited time with this course it is unlikely that it will enable us to answer or define questions that we would use for our thesis. 
 
 - Would you have preferred to have been given less choice in the use cases?
 
@@ -18,7 +18,7 @@ For inexperinced coders as ourselves the amount of tools were really helpful in 
 ### Output of the tool
 - Did the tool address the use case you identified?
 
-The tool we developed throughout the course were able to address the use case in a terms of being able to quantify simple ventilation demands in any zones of a IFC BIM model according to DS/EN 16798. However all of the features that we wanted to implement were perhaps a bit out of our coding capabilites and time scope to be able to be implemented. We used a lot of time to gather the solar radiation coming in through the windows due to complex math inside of a coding language we weren't familiar with. 
+The tool we developed throughout the course were able to address the use case in terms of being able to quantify simple ventilation demands in any zones of a IFC BIM model according to DS/EN 16798. However all of the features that we wanted to implement were perhaps a bit out of our coding capabilites and time scope to be able to be implemented. We used a lot of time to gather the solar radiation coming in through the windows due to complex math inside of a coding language we weren't familiar with. 
 
 
 - Was the use case well modelled
